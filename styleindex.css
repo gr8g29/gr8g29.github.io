@@ -102,6 +102,36 @@ nav img{
     font-size: 22px;
     line-height: 25px;
     color: white;
+    text-decoration: none;
+}
+
+.contactMe-text-box a{
+    text-decoration: none;
+}
+
+.Information-text-box{
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    line-height: 44px;
+}
+
+.Information-text-box h1{
+    font-size: 55px;
+    color: #FFB900;
+}
+
+.Information-text-box h4{
+    margin: 10px 0 40px;
+    font-size: 22px;
+    line-height: 25px;
+    color: white;
+    text-decoration: none;
+    line-height: 40px;
 }
 
 .projects-button{
