@@ -69,11 +69,35 @@ nav img{
 }
 
 .text-box h1{
+    
     font-size: 55px;
     color: #FFB900;
 }
 
 .text-box h4{
+    margin: 10px 0 40px;
+    font-size: 22px;
+    line-height: 25px;
+    color: white;
+}
+
+.contactMe-text-box{
+    width: 100%;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    line-height: 44px;
+}
+
+.contactMe-text-box h1{
+    font-size: 55px;
+    color: #FFB900;
+}
+
+.contactMe-text-box h4{
     margin: 10px 0 40px;
     font-size: 22px;
     line-height: 25px;
