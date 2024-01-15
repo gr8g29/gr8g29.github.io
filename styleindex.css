@@ -10,6 +10,7 @@
     background-image: url("background.png");
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 .header2{
@@ -91,7 +92,7 @@ nav img{
     width: 100%;
     color: white;
     position: absolute;
-    top: 70%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
@@ -119,7 +120,6 @@ nav img{
 }
 
 .Projects-text-box img{
-
     border: 2px solid #ffffff;
 }
 
