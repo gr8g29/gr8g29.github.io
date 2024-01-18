@@ -14,7 +14,7 @@
 }
 
 .header2{
-    min-height: 500vh;
+    min-height: 520vh;
     width: 100%;
     background-image: url("background.png");
     background-size: cover;
@@ -67,11 +67,11 @@ nav img{
 }
 
 .text-box{
-    width: 90%;
+    width: 50%;
     color: white;
     position: absolute;
     top: 50%;
-    left: 20%;
+    left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
 }
@@ -92,7 +92,7 @@ nav img{
     width: 100%;
     color: white;
     position: absolute;
-    top: 90%;
+    top: 270%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
